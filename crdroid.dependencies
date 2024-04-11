@@ -7,6 +7,6 @@
   {
     "repository": "frazerecho/proprietary_vendor_oneplus_hotdogb",
     "target_path": "vendor/oneplus/hotdogb"
-    "branch": "14.0-hotdog"
+    "branch": "lineage-21"
   }
 ]
