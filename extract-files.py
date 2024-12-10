@@ -23,7 +23,6 @@ module = ExtractUtilsModule(
     'oneplus',
     namespace_imports=namespace_imports,
     blob_fixups=blob_fixups,
-    check_elf=True,
     add_firmware_proprietary_file=True,
 )
 if __name__ == '__main__':
@@ -31,3 +30,4 @@ if __name__ == '__main__':
         module, 'sm8150-common', module.vendor
     )
     utils.run()
+
